@@ -1,9 +1,14 @@
 # web-scraping
 Web Scraping - Recetas para todos
+Práctica 1 de la asignatura de M2.851 - Tipología y ciclo de vida de los datos del Master de Data Science de la UOC.
 
+# Descripción
 Extrae los datos de todas las recetas existentes en la web www.saboresdehoy.com clasificando la información de modo que se pueda analizar variables como alérgenos, calorías e ingredientes.
 
+# Miembros del equipo
+Esta práctica ha sido realizada de manera individual por Lorenzo Mesa Morales
 
+# Requisitos
 Para ejecutar el script es necesario instalar la siguientes bibliotecas:
 
 pip3 install builtwith
@@ -14,13 +19,13 @@ pip install selenium
 
 pip install pandas
 
-
+# Ejecución
 El script se debe ejecutar de la siguiente manera:
 
 python read_recipes_new.py
 
 
-Recursos:
+# Recursos
 Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
 
 Masip, D. (2010). El lenguaje Python. Editorial UOC.
