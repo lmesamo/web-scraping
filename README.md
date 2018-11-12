@@ -19,6 +19,8 @@ pip install selenium
 
 pip install pandas
 
+NOTA: Para el uso de Selenium es necesario disponer del driver de Google Chrome en el mismo directorio de ejecución del script.
+
 # Ejecución
 El script se debe ejecutar de la siguiente manera:
 
