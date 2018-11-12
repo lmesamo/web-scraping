@@ -28,10 +28,17 @@ Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Sc
 
 Tutorial de Github https://guides.github.com/activities/hello-world.
 
+
 https://stackoverflow.com/questions/39112138/use-selenium-to-click-a-load-more-button-until-it-doesnt-exist-youtube
+
 https://selenium-python.readthedocs.io/locating-elements.html
+
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
+
 https://www.saboresdehoy.com/robots.txt
+
 https://www.saboresdehoy.com/sitemap.xml
+
 https://www.saboresdehoy.com/aviso-legal
+
