@@ -1,5 +1,6 @@
 # web-scraping
 Web Scraping - Recetas para todos
+
 Práctica 1 de la asignatura de M2.851 - Tipología y ciclo de vida de los datos del Master de Data Science de la UOC.
 
 # Descripción
